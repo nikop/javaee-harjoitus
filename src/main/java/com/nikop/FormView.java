@@ -65,7 +65,6 @@ public class FormView extends VerticalLayout implements View {
         form.addComponent(tfGender);
         form.addComponent(openText);
 
-
         Button button = new Button("Submit");
         
         button.addClickListener( e -> {

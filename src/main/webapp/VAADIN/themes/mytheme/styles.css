@@ -12977,6 +12977,11 @@ div.v-layout.v-horizontal.v-widget {
 	margin: 0;
 }
 
+.mytheme .confirmation {
+	text-align: center;
+	width: 100%;
+}
+
 .mytheme .page {
 	width: 100%;
 }
